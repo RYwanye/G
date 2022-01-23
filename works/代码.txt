@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>计算机科学导论期末大作业</title>
+</head>
+<body>
+    <!--Headings-->
+    <h1>计算机各学科关系</h1>
+
+    <!--课程关系图-->
+    <h2>课程关系图</h2>
+    <img src="img/a.jpg"alt="图片错误">
+   
+    <br>
+    <br>
+    <br>
+
+    <!--学科知识资源-->
+    <h2>学科知识资源</h2>
+    <a href="http://xuetangx.com/courses/CAU/08112500x/2015_T2/about"target="_blank">计算机导论</a>
+    <a href="http://xuetangx.com/courses/course-v1:TsinghuaX+00740043X_tv+2015_T1/about"target="_blank">C++入门</a>
+    <a href="http://xuetangx.com/courses/course-v1:UST+UST001+sp/courseware/57be39eedfa34649ac8939c4a7494b76/"target="_blank">计算机网络入门</a>
+    <a href="http://xuetangx.com/courses/course-v1:NTHU+MOOC_01_004+sp/info"target="_blank">计算机网络进阶</a>
+    <a href="http://http://pan.baidu.com/s/1geAJFy"target="_blank">数据库</a>
+
+    <br>
+    <br>
+
+    <!--对计算机学科的认识-->
+    <h2>对计算机学科的认识</h2>
+    <p>概括的讲，计算机专业是一门研究信息是如何表示和存储、如何发送和接收、如何处理分析的一门学科。
+        信息的概念很广，它可以包含我们人类能感知的信号（比如图像、声音、文字）和人类不能感知的信号
+       （无线信号）。计算机还研究什么问题是可以计算的，什么问题是不可以计算的，什么问题是可以有效
+        解决的，什么问题是目前无法解决的。</p>
+    <p>要给计算机定义两个特点，那么将会是形式化和抽象化。在计算机的世界里面，定义了各种各样的标准
+        和规定，所有事情都按规则办事。其中有定义人如何给指令让计算机计算，计算机跟计算机之间如何沟
+        通等等的规定。而抽象化则是解决问题的能力，如何把一个事实的问题，摒弃一些无关因素，然后把它
+        抽象成一个典型的通用的问题。所以计算机的需要的逻辑思维能力非常强。</p>
+    <p>计算机有几个代表课程，分别是：高级程序设计语言、数据结构、算法导论、计算机网络、操作系统、
+        计算机系统（计算机组成原理）、编译原理等等。</p>
+    <p>信息时代就是追求高效益，一些蹩脚的程序员将会被解雇，更多的是，一切简单的重复性的工作将会被
+        计算机、机器人替代。体制内部门并不是固若金汤的庇护所（参考希腊的福利制度，政府的财政收入来
+        源于我们人民的劳动创造的价值），拥抱变化、适应环境才是信息时代给我们最大的启发。</p>
+
+        <br>
+        <br>
+    
+    <!--个人学业规划-->
+    <h2>个人学业规划</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>大一</th>
+                <th>大二</th>
+                <th>大三</th>
+                <th>大四</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>年级前30%</td>
+                <td>年级前20%</td>
+                <td>复习备战考研</td>
+                <td>考研上岸</td>
+            </tr>
+            <tr>
+                
+                <td>读50本书</td>
+                <td>找到对象</td>
+                <td>掌握求职学问</td>
+                <td>专业有研究</td>
+            </tr>
+        </tbody>
+    </table>
+    <div style="margin-top: 600px"></div>
+</body>
+</html>
